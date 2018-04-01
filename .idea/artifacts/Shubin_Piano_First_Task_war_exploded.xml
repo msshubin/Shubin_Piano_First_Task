@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Shubin_Piano_First_Task:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Shubin_Piano_First_Task_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Shubin_Piano_First_Task" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Shubin_Piano_First_Task/web/Web" />
+    </root>
+  </artifact>
+</component>
